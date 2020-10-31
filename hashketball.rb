@@ -133,6 +133,6 @@ def game_hash
       
       
     }
-   puts basketball 
+   basketball 
   end
   
