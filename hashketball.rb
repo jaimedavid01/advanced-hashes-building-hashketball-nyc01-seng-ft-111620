@@ -1,7 +1,7 @@
 # Write your code here!
 def game_hash
   
-  basketball ={ 
+  basketball = { 
     :home => {
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
@@ -133,6 +133,6 @@ def game_hash
       
       
     }
-    
-    basketball
+   puts basketball 
   end
+  
