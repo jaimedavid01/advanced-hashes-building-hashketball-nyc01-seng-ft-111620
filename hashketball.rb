@@ -3,7 +3,7 @@ def game_hash
   
   basketball ={ 
     :home => {
-      :team_name => "",
+      :team_name => "Brooklyn Nets",
       :colors => [],
       :players => [ {
         :player_name => "",
